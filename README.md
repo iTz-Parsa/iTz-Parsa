@@ -25,5 +25,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itz-parsa&show_icons=true&locale=en&layout=compact" alt="itz-parsa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itz-parsa&" alt="itz-parsa" /></p>
-
