@@ -1,59 +1,49 @@
-<h2 align="left">Hi 👋! it's Parsa</h2>
 
-###
+# Hello, World! 👋 I'm iTz Parsa
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iTz-Parsa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iTz-Parsa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="130" alt="languages graph"  />
-</div>
+## Software Engineer | Open Source Enthusiast | Network Engineer
 
-###
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&hide_border=true)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vim" height="30" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=atom" height="30" alt="atom logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=xd" height="30" alt="xd logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="gitlab logo"  />
-</div>
+---
 
-###
+## About Me 👨‍💻
 
-<div align="left">
-</div>
+I'm a Software Engineer with a passion for open-source technologies, community involvement, and lifelong learning. My expertise includes Python, Network, and cloud computing.
 
-###
+- 🌱 I’m currently learning about Network and Machine Learning.
+- 🎤 I love to share what I know; I'm active in tech talks and webinars.
+- 👯 I’m looking to collaborate on open-source projects.
+- 📫 How to reach me: [parsadevs@gmail.com](mailto:parsadevs@gmail.com)
+- 💼 Github: [iTz Parsa](https://github.com/iTz-Parsa)
+- 📚 Blog: [Medium](https://medium.com/@itzparsa)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/iTz-Parsa/count.svg?"  />
-</div>
+---
 
-###
+## Skills 🛠️
+
+- **Languages**: Python, Html, Css
+- **Linux**: Ubuntu, Kali, Arch, Debian, Mint, Manjaro
+- **Graphic**: Photoshop, illustrator, InDesgin, Adobe Xd, Figma
+- **Networking**: Windows Server, Linux Server, HTTPS
+- **Tools**: Git, Github, GitLab, Vim
+- **Other**: Data Structures, Algorithms, CI/CD
+
+---
+
+## Let's Connect 🤝
+
+Feel free to connect with me on these platforms:
+
+- [Twitter](https://twitter.com/iTzParsaa)
+- [Mastodon](https://mastodon.social/@iTzParsa)
+- [Medium](https://medium.com/@johndoe)
+- [Reddit](https://www.reddit.com/user/SirParsa)
+- [Instagram](https://www.instagram.com/fsocity.dat)
+- [Discord](https://discord.gg/56pdUKsq)
+- [StackOverFlow](https://stackoverflow.com/users/22380937/itzparsa)
+- 
+
+---
+
+<sup>This README is subject to updates.</sup>
