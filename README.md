@@ -1,9 +1,14 @@
-
 # Hello, World! 👋 I'm iTz Parsa
 
 ## Software Engineer | Open Source Enthusiast | Network Engineer
 
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iTz-Parsa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iTz-Parsa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=iTz-Parsa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
 
 ---
 
@@ -42,7 +47,6 @@ Feel free to connect with me on these platforms:
 - [Instagram](https://www.instagram.com/fsocity.dat)
 - [Discord](https://discord.gg/56pdUKsq)
 - [StackOverFlow](https://stackoverflow.com/users/22380937/itzparsa)
-- 
 
 ---
 
