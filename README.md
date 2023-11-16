@@ -1,3 +1,16 @@
-#
-const yourName = prompt("Enter Your Name : "); class ComputerStudent { introduce() { this.name = "Bahare Seddigh"; this.bio = "Computer Student From IR"; this.favorites = ["Coding" , "Music" , "Water:)"]; this.languageSpoken = ["en_US", "fa_IR"]; } welcomeHere() { alert("Welcome To My Github Account, Hope You Enjoy ${yourName} :)"); } } let me = new ComputerStudent(); me.welcomeHere();
-#
+# -*- coding: utf-8 -*-
+
+
+class ComputerEngineerStudent:
+
+    def __init__(self):
+        self.name = "Mahdi Moghassemi"
+        self.role = "Computer Engineering @ K. N. Toosi University of Technology"
+        self.language_spoken = ["en_US", "Fa"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = ComputerEngineerStudent()
+me.say_hi()
