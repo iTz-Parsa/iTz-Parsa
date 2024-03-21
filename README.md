@@ -3,11 +3,6 @@
 
 ## Software Developer | Tech Enthusiast | Security Researcher
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img alt=Stats" src="https://github-readme-stats.vercel.app/api?username=iTz-Parsa&show_icons=true&theme=gotham">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=iTz-Parsa&theme=merko&border_radius=10&date_format=M%20j%5B%2C%20Y%5D">
-</details
 
 ###
 
@@ -35,16 +30,21 @@ I'm a Software Developer; with a passion for open-source technologies, community
 
 ---
 
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img alt=Stats" src="https://github-readme-stats.vercel.app/api?username=iTz-Parsa&show_icons=true&theme=gotham">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=iTz-Parsa&theme=merko&border_radius=10&date_format=M%20j%5B%2C%20Y%5D">
+</details
 
 ## Let's Connect 🤝
 
 Feel free to connect with me on these platforms:
 
+- [Telegram](https://itzparsaa.t.me)
 - [Twitter](https://twitter.com/iTzParsaa)
 - [Mastodon](https://mastodon.social/@iTzParsa)
 - [Medium](https://medium.com/@johndoe)
-- [Reddit](https://www.reddit.com/user/SirParsa)
-- [Instagram](https://www.instagram.com/fsocity.dat)
+- [Instagram](https://www.instagram.com/_iTzParsa)
 - [Discord](https://discord.gg/56pdUKsq)
 - [StackOverFlow](https://stackoverflow.com/users/22380937/itzparsa)
 
