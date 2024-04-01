@@ -28,7 +28,7 @@ I'm a Software Developer; with a passion for open-source technologies, community
 
 ## Skills 🛠️
 
-- **Languages**: Python, JavaScript, GoLang
+- **Languages**: ~
 - **Graphic**: Photoshop, illustrator, InDesgin, Adobe Xd, Figma
 - **Tools**: Git, VSCode, JetBrains, Vim
 - **Other**: Data Structures, Algorithms, CI/CD
