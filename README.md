@@ -35,6 +35,7 @@ a 16-year-old security researcher with a passion for technology. I've been fasci
 
 Feel free to connect with me on these platforms:
 
+- [Mail](mailto:crraykid@gmail.com))
 - [Telegram](https://itzparsaa.t.me)
 - [TwitterX](https://twitter.com/iTzParsaa)
 - [Instagram](https://www.instagram.com/_iTzParsa)
