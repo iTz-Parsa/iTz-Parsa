@@ -1,5 +1,5 @@
 
-# Hey 👋, I'm iTzParsa
+# Hey, I'm iTzParsa
 
 ## Skiddie & Penetration Tester
 
@@ -8,7 +8,7 @@
 
 ---
 
-## About Me 👨‍💻
+## About Me
 
 a 16-year-old security researcher with a passion for technology. I've been fascinated by computers since a young age, spending countless hours learning Linux and diving into the world of Vulnerability and Cybersecurity.
 
@@ -21,7 +21,7 @@ a 16-year-old security researcher with a passion for technology. I've been fasci
 
 ---
 
-## Skills 🛠️
+## Skills
 
 - **Languages**: ~
 - **Graphic**: Photoshop, illustrator, InDesgin, Adobe Xd, Figma
@@ -31,7 +31,7 @@ a 16-year-old security researcher with a passion for technology. I've been fasci
 ---
 
 
-## Let's Connect 🤝
+## Let's Connect
 
 Feel free to connect with me on these platforms:
 
