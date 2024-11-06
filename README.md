@@ -10,7 +10,7 @@
 
 ## About Me 👨‍💻
 
-I'm a Software Developer; with a passion for open-source technologies, community involvement, and lifelong learning. My expertise includes Python, Network, and cloud computing.
+a 16-year-old security researcher with a passion for technology. I've been fascinated by computers since a young age, spending countless hours learning Linux and diving into the world of Vulnerability and Cybersecurity.
 
 - 🌱 I’m currently learning about Owasp and Hunt
 - 🎤 I love to share what I know; I'm active in tech talks and webinars.
