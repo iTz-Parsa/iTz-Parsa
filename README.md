@@ -1,8 +1,5 @@
 
-# Hey, I'm iTzParsa
-
-## Skiddie & Penetration Tester
-
+# Hey, I'm iTzParsa (Skiddie & Penetration Tester)
 
 ## About Me
 
