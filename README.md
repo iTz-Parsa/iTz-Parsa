@@ -16,10 +16,14 @@ Besides security, I enjoy programming and am always eager to learn new languages
 
 ## Skills
 
-- **Languages**: ~
-- **Graphic**: Photoshop, illustrator, InDesgin, Adobe Xd, Figma
-- **Tools**: Git, VSCode, JetBrains, Vim
-- **Other**: Data Structures, Algorithms, CI/CD
+- Algorithms
+- Linux, Pwk
+- Git, Metasploit
+- Cyber Security
+- Programming
+- Problem Solving
+- Penetration Testing
+- Vulnerability Assessment
 
 ---
 
