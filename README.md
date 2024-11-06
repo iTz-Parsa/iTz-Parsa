@@ -1,7 +1,7 @@
 
-# Hello, World! 👋 I'm iTz Parsa
+# Hey 👋, I'm iTzParsa
 
-## Software Developer | Tech Enthusiast | Security Researcher
+## Skiddie & Penetration Tester
 
 <details>
   <summary>:zap: Github Stats</summary>
