@@ -10,13 +10,14 @@
 
 ## About Me
 
-a 16-year-old security researcher with a passion for technology. I've been fascinated by computers since a young age, spending countless hours learning Linux and diving into the world of Vulnerability and Cybersecurity.
+Hi, I'm [iTzParsa], a 16-year-old aspiring cybersecurity professional.
+I've been passionate about technology since a young age. My interest in penetration testing and vulnerability research has led me to explore the exciting world of cybersecurity. I'm currently diving deep into OWASP and Bug Bounty programs to enhance my skills and knowledge. 
+Besides security, I enjoy programming and am always eager to learn new languages and frameworks. Linux is my go-to operating system, and I'm constantly tinkering with it.
+
 
 - 🌱 I’m currently learning about Owasp and Hunt
 - 🎤 I love to share what I know; I'm active in tech talks and webinars.
 - 👯 I’m looking to collaborate on open-source projects.
-- 📫 How to reach me: [crraykid@gmail.com](mailto:crraykid@gmail.com)
-- 💼 Github: [iTz Parsa](https://github.com/iTz-Parsa)
 - 📚 Blog: [Medium](https://medium.com/@itzparsa)
 
 ---
@@ -35,7 +36,7 @@ a 16-year-old security researcher with a passion for technology. I've been fasci
 
 Feel free to connect with me on these platforms:
 
-- [Mail](mailto:crraykid@gmail.com))
+- [Mail](mailto:crraykid@gmail.com)
 - [Telegram](https://itzparsaa.t.me)
 - [TwitterX](https://twitter.com/iTzParsaa)
 - [Instagram](https://www.instagram.com/_iTzParsa)
