@@ -9,14 +9,18 @@ I'm a 17-year-old cybersecurity enthusiast and programmer with a strong passion 
 ## Skills
 
 - Algorithms
-- Linux, Pwk
-- Git, Metasploit
+- Communication
 - Cyber Security
 - Programming
 - Problem Solving
 - Penetration Testing
+- Incident Handling
+- Project Management
+- Information Security
+- Requirements Analysis
+- Web Application Security
+- Linux System Administration
 - Vulnerability Assessment
-
 ---
 
 
