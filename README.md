@@ -2,9 +2,7 @@
 # Hey, I'm iTzParsa
 ## About Me
 
-a 16-year-old aspiring cybersecurity professional.
-I've been passionate about technology since a young age. My interest in penetration testing and vulnerability research has led me to explore the exciting world of cybersecurity. I'm currently diving deep into OWASP and Bug Bounty programs to enhance my skills and knowledge. 
-Besides security, I enjoy programming and am always eager to learn new languages and frameworks. Linux is my go-to operating system, and I'm constantly tinkering with it.
+I'm a 17-year-old cybersecurity enthusiast and programmer with a strong passion for technology. From a young age, I've been deeply interested in understanding how systems work and how to secure them. My primary focus lies in the field of cybersecurity, where I actively explore penetration testing, vulnerability research, and Bug Bounty programs. I'm also dedicated to expanding my expertise through continuous learning, particularly in areas such as OWASP methodologies and modern security practices. In addition to cybersecurity, I enjoy programming and experimenting with new languages and frameworks. Linux is my preferred operating system, and I constantly explore its inner workings to enhance my technical proficiency.
 
 ---
 
