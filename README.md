@@ -33,7 +33,7 @@ Feel free to connect with me on these platforms:
 - [Discord](https://discord.com/users/901169032269529098)
 - [TwitterX](https://twitter.com/iTzParsaa)
 - [Medium](https://medium.com/@itzparsa)
-- [Linkedin](https://www.linkedin.com/in/parsabarazande/)
+- [Linkedin](https://www.linkedin.com/in/itzparsaa/)
 - [Instagram](https://www.instagram.com/itzparswa)
 ---
 
